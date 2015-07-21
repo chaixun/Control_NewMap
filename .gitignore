@@ -1,0 +1,70 @@
+<<<<<<< HEAD
+# C++:
+=======
+# for cmake
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+install_manifest.txt
+
+# for linux local file
+*~
+
+# for c++
+
+
+# Compiled Object files
+>>>>>>> dbfbd9dc45a9b76c2cbcc8c8af8b7f3bce668de7
+*.slo
+*.lo
+*.o
+*.obj
+
+<<<<<<< HEAD
+# local:
+log*.botlog
+log*.txt
+GridMap*.txt
+Gait.txt
+
+*.config
+*.creator
+*.user
+*.files
+
+*.botlog
+
+
+CMakeFiles
+.cproject
+.project
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+
+=======
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+>>>>>>> dbfbd9dc45a9b76c2cbcc8c8af8b7f3bce668de7
